@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Layouts1_3_1</string>
+    <string name="nombre">Nombre</string>
+    <string name="text_toolbar">EjercicioAndroid2</string>
+    <string name="edit_profile">Edit profile</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="estrellita">Estrellita</string>
+</resources>
